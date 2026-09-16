@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+ds team
 
 ## Members
 
-- _nobody has signed on yet_
+ethan
